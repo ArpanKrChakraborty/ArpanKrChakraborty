@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArpanKrChakraborty
+- 👋 Hi, I’m <i>Arpan Kumar Chakraborty</i>
 - 👀 I’m interested in competitive coding & web-developement
 - 🌱 I’m currently a 3rd year CSE student at Purulia Government Engineering College 
 - 💞️ I’m looking to collaborate on various web-developement projects

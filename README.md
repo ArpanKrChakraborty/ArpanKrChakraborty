@@ -18,4 +18,4 @@ When I'm not writing code or studying computation theories, I spend my time:
 * Learning and improving my **chess** game from the ground up.
 
 ---
-📫 **How to reach me:** <a href = "linkedin.com/in/arpan-kumar-chakraborty-a36578172">LinkedIn</a>
+📫 **How to reach me:** <a href = "https://www.linkedin.com/in/arpanchakraborty1908">LinkedIn</a>

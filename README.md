@@ -1,10 +1,21 @@
-- 👋 Hi, I’m <i>Arpan Kumar Chakraborty</i>
-- 👀 I’m interested in competitive coding & web-developement
-- 🌱 I’m currently a 3rd year CSE student at Purulia Government Engineering College 
-- 💞️ I’m looking to collaborate on various web-developement projects
-- 📫 Contect me at my <a href = "linkedin.com/in/arpan-kumar-chakraborty-a36578172">LinkedIn</a>
+# Hi there, I'm Arpan 👋
 
-<!---
-ArpanKrChakraborty/ArpanKrChakraborty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a Software Developer with over 3 years of experience building solutions at IBM CIO India. I hold a Bachelor's degree in Computer Science from the Government College of Engineering, Purulia. I enjoy tackling complex problems, diving into theoretical computation, and participating in competitive programming. 
+
+## 💻 Tech Stack & Tools
+* **Languages:** Python, Java
+* **Concepts:** Competitive Programming, Theoretical Computation, Data Structures & Algorithms, Compiler Design
+
+## 🌍 Languages
+* **Bengali:** Native / Bilingual
+* **English:** Full Professional
+* **Hindi:** Limited Working
+
+## ♟️ Beyond the Code
+When I'm not writing code or studying computation theories, I spend my time:
+* Hitting the trails for a good **trek**.
+* Strategizing over **browser-based multiplayer games**.
+* Learning and improving my **chess** game from the ground up.
+
+---
+📫 **How to reach me:** <a href = "linkedin.com/in/arpan-kumar-chakraborty-a36578172">LinkedIn</a>
